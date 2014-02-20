@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "ScrolltoFixed.js, packed for Meteor."
+  summary: "ScrolltoFixed.js, fix elements on the page"
 });
 
 Package.on_use(function(api) {

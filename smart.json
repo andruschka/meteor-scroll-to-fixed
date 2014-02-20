@@ -1,6 +1,6 @@
 {
   "name": "scroll-to-fixed",
-  "description": "ScrolltoFixed.js, packed for Meteor",
+  "description": "ScrolltoFixed.js, fix elements on the page",
   "homepage": "https://github.com/and-fri/meteor-scroll-to-fixed",
   "author": "and-fri",
   "version": "0.0.1",
