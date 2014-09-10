@@ -1,8 +1,0 @@
-{
-  "name": "scroll-to-fixed",
-  "description": "ScrolltoFixed.js, fix elements on the page",
-  "homepage": "https://github.com/and-fri/meteor-scroll-to-fixed",
-  "author": "and-fri",
-  "version": "0.0.1",
-  "git": "https://github.com/and-fri/meteor-scroll-to-fixed.git"
-}
